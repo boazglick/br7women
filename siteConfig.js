@@ -51,8 +51,8 @@ module.exports = {
       },
       
       {
-        label: "קרסו נדלן מאיה",
-        url: "https://maya.tase.co.il/company/2384",
+        label: "ירוק",
+        url: "https://yarokaz.co.il",
       },
      
     ],
